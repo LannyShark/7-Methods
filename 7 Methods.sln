@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 Bigest triangle", "1 Bigest triangle\1 Bigest triangle.csproj", "{9FC4AC83-D3D1-4CFE-B7B5-9FE135F0AA73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 Cube", "2 Cube\2 Cube.csproj", "{83A2BF1C-0696-4D00-ABAD-778D2049C77E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC4AC83-D3D1-4CFE-B7B5-9FE135F0AA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC4AC83-D3D1-4CFE-B7B5-9FE135F0AA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC4AC83-D3D1-4CFE-B7B5-9FE135F0AA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC4AC83-D3D1-4CFE-B7B5-9FE135F0AA73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A2BF1C-0696-4D00-ABAD-778D2049C77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A2BF1C-0696-4D00-ABAD-778D2049C77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A2BF1C-0696-4D00-ABAD-778D2049C77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A2BF1C-0696-4D00-ABAD-778D2049C77E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75FA3B09-E861-4C54-96ED-239C9EE9EE8E}
+	EndGlobalSection
+EndGlobal
